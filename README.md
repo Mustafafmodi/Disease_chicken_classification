@@ -1,0 +1,2 @@
+# Disease_chicken_classification
+Chicken Disease classification problem
